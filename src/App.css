@@ -1,5 +1,19 @@
+body {
+  background: #E0CDE0;
+}
+
+a{
+  color: #71137A;
+}
+
 .App-header{
   margin:30px 0;
+  font-size: 60px;
+  font-weight: bold;
+  color:#71137A;
+  
+
+  
 }
 
 .App-footer{
