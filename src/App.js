@@ -10,7 +10,10 @@ function App() {
           <main>
             <Dictionary defaultKeyword="Dictionary" />
           </main>
-          <footer className="App-footer">Coded by Renee Christian</footer>
+          <footer className="App-footer">
+            <a href="https://github.com/Rae40/dictionary-react">Coded by </a>{" "}
+            Renee Christian
+          </footer>
         </div>
       </div>
     </div>
